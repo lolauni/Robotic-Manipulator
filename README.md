@@ -48,7 +48,7 @@ To achieve manipulator stability, a fine-tuning process was carried out for the 
 
 ## 📸 Gallery 
 
-(<img width="632" height="606" alt="image" src="https://github.com/user-attachments/assets/4d2f8be0-8797-455d-a77a-2fd176c26b02" />
-)
+<img width="632" height="606" alt="image" src="https://github.com/user-attachments/assets/4d2f8be0-8797-455d-a77a-2fd176c26b02" />
+
 
 
