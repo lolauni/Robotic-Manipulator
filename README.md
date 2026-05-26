@@ -6,7 +6,7 @@ The project covers the entire development cycle, from mechanical design and 3D p
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
 * **Design & Manufacturing:** Entire mechanical structure modeled and fabricated via **3D Printing**.
 * **Efficient Actuation:** DC motors equipped with encoders for real-time position feedback.
@@ -15,7 +15,7 @@ The project covers the entire development cycle, from mechanical design and 3D p
 
 ---
 
-## 🛠️ System Architecture (Hardware & Electronics)
+# 🛠️ System Architecture (Hardware & Electronics)
 
 The system is built upon the following main blocks:
 
@@ -27,7 +27,7 @@ The system is built upon the following main blocks:
 
 ---
 
-## 💻 Software Structure
+# 💻 Software Structure
 
 The main codebase is located inside the [`todo_junto_final`](./todo_junto_final) folder. The control algorithm follows this pipeline:
 
@@ -40,22 +40,15 @@ The main codebase is located inside the [`todo_junto_final`](./todo_junto_final)
 
 ---
 
-## 📊 Results and Calibration
+# 📊 Results and Calibration
 
 To achieve manipulator stability, a fine-tuning process was carried out for the PID constants ($K_p, K_i, K_d$), minimizing overshoot and settling time for each joint under step inputs and continuous trajectories.
 
 ---
 
-## 📸 Gallery & Demonstration
+# 📸 Gallery 
 
-| Robotic Arm View | 
-| :---: | (<img width="632" height="606" alt="image" src="https://github.com/user-attachments/assets/4d2f8be0-8797-455d-a77a-2fd176c26b02" />
-) |
-
+(<img width="632" height="606" alt="image" src="https://github.com/user-attachments/assets/4d2f8be0-8797-455d-a77a-2fd176c26b02" />
+)
 
 
----
-
-Developed by:
-* **Lola Serrano** - [@lolauni](https://github.com/lolauni)
-* *(Add your group mates here if applicable)*
